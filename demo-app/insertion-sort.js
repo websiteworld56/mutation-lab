@@ -11,5 +11,5 @@ const insertionSort = (inputArr) => {
     }
     return inputArr;
 };
-
+//print sample
 module.exports = insertionSort
